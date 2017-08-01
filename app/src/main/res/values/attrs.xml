@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- 水波纹效果-->
+    <declare-styleable name="RippleEffectProperty">
+        <attr name="RippleEffectSpreadSpeed" format="integer" />
+        <attr name="RippleEffectBackgroundColor" format="color" />
+        <attr name="RippleEffectWaterRippleColor" format="color" />
+    </declare-styleable>
+
+</resources>
